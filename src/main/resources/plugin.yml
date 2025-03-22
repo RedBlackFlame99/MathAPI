@@ -1,0 +1,5 @@
+name: MathAPI
+version: '1.0.0.0'
+main: devv.rbfz.mathAPI.MathPlugin
+api-version: '1.21'
+authors: [ RedTheDev ]
